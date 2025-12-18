@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "WORLD'S END SUPERNOVA",
+  "base_artist": "くるり",
+  "createdAt": "2025-12-18T15:20:13.607930Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "World's end supernova",
+      "artist": "Quruli",
+      "has_synced": true,
+      "path": "select/01_World's_end_supernova_Quruli.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WORLD'S END SUPERNOVA",
+      "artist": "くるり",
+      "has_synced": false,
+      "path": "select/pl_01_WORLD'S_END_SUPERNOVA_くるり.txt"
+    }
+  ]
+}
