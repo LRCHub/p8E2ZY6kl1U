@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "WORLD'S END SUPERNOVA",
   "base_artist": "くるり",
-  "createdAt": "2025-12-18T15:20:13.607930Z",
+  "createdAt": "2026-03-11T20:26:14.045688Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -11,6 +11,22 @@
       "artist": "Quruli",
       "has_synced": true,
       "path": "select/01_World's_end_supernova_Quruli.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "WORLD'S END SUPERNOVA",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/02_WORLD'S_END_SUPERNOVA_くるり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "WORLD’S END SUPERNOVA – Mix “Matuli” –",
+      "artist": "Quruli",
+      "has_synced": true,
+      "path": "select/03_WORLD’S_END_SUPERNOVA_–_Mix_“Matuli”_–_Quruli.lrc"
     },
     {
       "id": "petitlyrics_1",
